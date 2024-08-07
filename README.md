@@ -1,4 +1,4 @@
 # js-escrevenome
 
 
-?p xmlns:cc-"http://creativecommons.org/ns-s" - Este trabalho está licenciado sob "a href?"https://creativecommons.org/licenses/by/by/4.0/?ref-chooser-v1" target?__blank" rel?"license noopenrer noer noreferrer""a estatura:22px!important;margem-left:3px; vertical-align:text-bottom;"src-"https:// espelhos.creativecommons.org/presskit/icons/cons/ccsvg?ref-chooser-v1 "alt"""" ?img style? he:22px!;importante;margin-left:3rors.creativecommons.org/presskit/icons/by.svg?reoser-v1" alt-?""
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
